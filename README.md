@@ -7,6 +7,7 @@ This is a simple personal profile page created using HTML and CSS.
 ## Live Demo
 
 You can view the live page here:  
+https://simonajanikova.github.io/Profile/
 
 
 ---
